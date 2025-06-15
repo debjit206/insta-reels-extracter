@@ -1,5 +1,5 @@
 @echo off
 echo Starting Instagram Reels Scraper...
-cd "c:\Users\debji\Downloads\Mezink Code Files\Sheet_to_sheet"
+cd "paste_your path to the folder where the .py file is located"
 python reels.py
 pause
